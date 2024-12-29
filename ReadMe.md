@@ -1,6 +1,20 @@
 # 💫 About Me:
-Currently, I am a passionate student of Artificial Intelligence and Data Science currently pursuing my degree in Artificial Intelligence from Air University. <br><br>I interned as an 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 for 𝐢𝐎𝐏𝐓𝐈𝐌𝐄 𝐏𝐯𝐭 𝐋𝐭𝐝 for 2 months. Before that, I interned at 𝐓𝐞𝐫𝐚𝐬𝐨𝐥 𝐏𝐯𝐭 𝐋𝐭𝐝 as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐈𝐧𝐭𝐞𝐫𝐧, but soon I resigned to work as an AI Engineer. I also worked as an AI and Automation Intern at NexGen Guards.
+I am a passionate student of Artificial Intelligence and Data Science currently pursuing my degree in Artificial Intelligence from Air University. <br><br>I interned as an 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 for 𝐢𝐎𝐏𝐓𝐈𝐌𝐄 𝐏𝐯𝐭 𝐋𝐭𝐝 for 2 months. Before that, I interned at 𝐓𝐞𝐫𝐚𝐬𝐨𝐥 𝐏𝐯𝐭 𝐋𝐭𝐝 as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐈𝐧𝐭𝐞𝐫𝐧, but soon I resigned to work as an AI Engineer. I also worked as an AI and Automation Intern at NexGen Guards.
 
+My Key Skills include:
+  • 𝐂/𝐂++
+  • 𝐎𝐩𝐞𝐧𝐑𝐞𝐟𝐢𝐧𝐞
+ • 𝐏𝐲𝐭𝐡𝐨𝐧 (𝐏𝐚𝐧𝐝𝐚𝐬, 𝐍𝐮𝐦𝐩𝐲, 𝐒𝐤𝐥𝐞𝐚𝐫𝐧, 𝐏𝐲𝐭𝐨𝐫𝐜𝐡, 𝐍𝐋𝐓𝐊, 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬)
+ • 𝐒𝐐𝐋
+ • 𝐆𝐨𝐨𝐠𝐥𝐞 𝐋𝐨𝐨𝐤𝐞𝐫 𝐒𝐭𝐮𝐝𝐢𝐨
+ • 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈
+ • 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐩𝐫𝐞𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠
+ • 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧
+ • 𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+ • 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐨𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 𝐋𝐋𝐌 
+ • 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+ • 𝐐𝐓 𝐂𝐫𝐞𝐚𝐭𝐨𝐫
+ • 𝐟𝐚𝐬𝐭𝐀𝐏𝐈 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Malik Saad Ahmed) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ Malik Saad Ahmed) 
