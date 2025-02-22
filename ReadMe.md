@@ -1,7 +1,7 @@
-# 💫 Objective:
+ # 💫 Objective:
 I am a passionate student of Artificial Intelligence and Data Science currently pursuing my degree in Artificial Intelligence from Air University.
 
-#Experience
+# Experience
 <br><br>I interned as an 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 for 𝐢𝐎𝐏𝐓𝐈𝐌𝐄 𝐏𝐯𝐭 𝐋𝐭𝐝 for 2 months. Before that, I interned at 𝐓𝐞𝐫𝐚𝐬𝐨𝐥 𝐏𝐯𝐭 𝐋𝐭𝐝 as a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐈𝐧𝐭𝐞𝐫𝐧, but soon I resigned to work as an AI Engineer. I also worked as an AI and Automation Intern at NexGen Guards.
 
 # Skills
