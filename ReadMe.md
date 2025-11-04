@@ -48,7 +48,7 @@ I love working on real-world AI projects — from **machine learning** and **dat
 ###  **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,sqlite,postgres,git,github,powerbi,qt,fastapi,matplotlib,numpy,pandas,sklearn,heroku,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,sqlite,postgres,git,github,powerbi,qt,fastapi" /><br>
   <img src="https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-%23013243.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
