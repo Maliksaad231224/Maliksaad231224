@@ -53,17 +53,6 @@ I love working on real-world AI projects — from **machine learning** and **dat
   <img src="https://img.shields.io/badge/Transformers-%23013243.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
----
-
-###  **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malik-Saad-Ahmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Saad-Ahmed&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Saad-Ahmed&layout=compact&theme=tokyonight" width="45%">
-</p>
 
 ---
 
