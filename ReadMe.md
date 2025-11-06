@@ -84,7 +84,7 @@ I specialize in **LLM fine-tuning**, **AI infrastructure development**, and **en
 ### 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="https://linkedin.com/in/Malik-Saad-Ahmed"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://pk.linkedin.com/in/malik-saad-ahmed-93404a318"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:awansaad6927@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/maliksaadahmed"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
