@@ -100,7 +100,7 @@ I specialize in **LLM fine-tuning**, **AI infrastructure development**, and **en
 ---
 
 <p align="center">
-  👁️‍🗨️ <img src="https://komarev.com/ghpvc/?username=maliksaadahmed&style=for-the-badge&color=blue" alt="Profile Views" />  
+  👁️‍🗨️ <img src="https://komarev.com/ghpvc/?username=Maliksaad231224&style=for-the-badge&color=blue" alt="Profile Views" />  
 </p>
 
 ---
