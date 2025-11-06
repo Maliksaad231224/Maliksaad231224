@@ -85,25 +85,6 @@ I specialize in **LLM fine-tuning**, **AI infrastructure development**, and **en
 
 ---
 
-### 🧮 **Tech Usage Chart**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maliksaadahmed&theme=radical" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maliksaadahmed&theme=radical" alt="Most commit languages" />
-</p>
-
----
-
-### 🧰 **Tech Stack**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,postgres,mysql,sqlite,git,github,docker,powerbi,fastapi,qt" /><br>
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-%23013243.svg?style=for-the-badge&logo=huggingface&logoColor=white" />
-</p>
-
----
-
 ### 🏆 **Achievements & Leadership**
 
 - 🥇 **1st Place** — AirTech AI DS Hackathon 2025  
